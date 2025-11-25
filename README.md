@@ -129,8 +129,8 @@
 <td width="33%">
 <div align="center">
 <h3>🌐 Личный сайт</h3>
-<a href="https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas&repo=alisaalisaalisaalisas&theme=tokyonight" />
+<a href="https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas" target="_blank" rel="noopener">
+<img src="/mnt/data/42045453-fbdb-4f3b-aad9-86fab5791622.png" alt="Personal Website preview" width="260" />
 </a>
 <p>Тестовый сайт на HTML/CSS.</p>
 </div>
@@ -139,8 +139,8 @@
 <td width="33%">
 <div align="center">
 <h3>🎮 Game</h3>
-<a href="https://github.com/alisaalisaalisaalisas/game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas&repo=game&theme=tokyonight" />
+<a href="https://github.com/alisaalisaalisaalisas/game" target="_blank" rel="noopener">
+<img src="/mnt/data/f67794ea-ac15-425e-9cac-2b1cce3782a0.png" alt="Game preview" width="260" />
 </a>
 <p>Эксперименты в геймдеве (Python / Pygame).</p>
 </div>
@@ -149,8 +149,8 @@
 <td width="33%">
 <div align="center">
 <h3>🐕 Dog</h3>
-<a href="https://github.com/alisaalisaalisaalisas/dog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas&repo=dog&theme=tokyonight" />
+<a href="https://github.com/alisaalisaalisaalisas/dog" target="_blank" rel="noopener">
+<img src="/mnt/data/42045453-fbdb-4f3b-aad9-86fab5791622.png" alt="Dog project preview" width="260" />
 </a>
 <p>Лэндинг на Django + авто-тесты + CI.</p>
 </div>
@@ -159,6 +159,7 @@
 </table>
 
 </div>
+
 
 ---
 
