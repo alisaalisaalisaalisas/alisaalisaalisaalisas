@@ -139,7 +139,8 @@
 <div align="center">
 <h3>🎮 Game Trial</h3>
 <a href="https://github.com/neveruslovu/game-trial">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neveruslovu&repo=game-trial&theme=tokyonight" alt="Game Trial" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas
+&repo=game&theme=tokyonight" alt="Game" />
 </a>
 <p>Эксперименты в геймдеве с Pygame и Python.</p>
 </div>
@@ -148,7 +149,8 @@
 <div align="center">
 <h3>🐕 Dog Dating</h3>
 <a href="https://github.com/neveruslovu/dog_dating_project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neveruslovu&repo=dog_dating_project&theme=tokyonight" alt="Dog Dating Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas
+&repo=dog&theme=tokyonight" alt="Dog" />
 </a>
 <p>Лэндинг на Django + unittest + CI + Python + JS + htmls\css 🐾</p>
 </div>
