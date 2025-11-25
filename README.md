@@ -129,8 +129,8 @@
 <td width="33%">
 <div align="center">
 <h3>🌐 Личный сайт</h3>
-<a href="https://github.com/neveruslovu/neveruslovu.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neveruslovu&repo=neveruslovu.github.io&theme=tokyonight" alt="Personal Website" />
+<a href="https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas&repo=alisaalisaalisaalisas&theme=tokyonight" alt="Personal Website" />
 </a>
 <p>Тестовый сайт на HTML/CSS.</p>
 </div>
