@@ -138,7 +138,7 @@
 <td width="33%">
 <div align="center">
 <h3>🎮 Game Trial</h3>
-<a href="https://github.com/neveruslovu/game-trial">
+<a href="https://github.com/alisaalisaalisaalisas/game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas
 &repo=game&theme=tokyonight" alt="Game" />
 </a>
