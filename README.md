@@ -130,7 +130,7 @@
 <div align="center">
 <h3>🌐 Личный сайт</h3>
 <a href="https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas" target="_blank" rel="noopener">
-    <img src="https://via.placeholder.com/200x120?text=Website" alt="Личный сайт" />
+    <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400" alt="Личный сайт" width="200" />
 </a>
 <p>Тестовый сайт на HTML/CSS.</p>
 </div>
@@ -140,7 +140,7 @@
 <div align="center">
 <h3>🎮 Game</h3>
 <a href="https://github.com/alisaalisaalisaalisas/game" target="_blank" rel="noopener">
-    <img src="https://via.placeholder.com/200x120?text=Game" alt="Game project" />
+    <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400" alt="Game project" width="200" />
 </a>
 <p>Эксперименты в геймдеве (Python / Pygame).</p>
 </div>
@@ -150,7 +150,7 @@
 <div align="center">
 <h3>🐕 Dog</h3>
 <a href="https://github.com/alisaalisaalisaalisas/dog" target="_blank" rel="noopener">
-    <img src="https://via.placeholder.com/200x120?text=Dog+Landing" alt="Dog landing" />
+    <img src="https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=400" alt="Dog landing" width="200" />
 </a>
 <p>Лэндинг на Django + авто-тесты + CI.</p>
 </div>
@@ -159,6 +159,7 @@
 </table>
 
 </div>
+
 
 
 
