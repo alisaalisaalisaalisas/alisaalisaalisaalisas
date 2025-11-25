@@ -148,7 +148,7 @@
 <td width="33%">
 <div align="center">
 <h3>🐕 Dog Dating</h3>
-<a href="https://github.com/neveruslovu/dog_dating_project">
+<a href="https://github.com/alisaalisaalisaalisas/dog">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisaalisaalisaalisas
 &repo=dog&theme=tokyonight" alt="Dog" />
 </a>
