@@ -159,7 +159,17 @@
 </table>
 
 </div>
-
+<td width="33%">
+<div align="center">
+<h3>🛠️ LLM SuperCLI</h3>
+<a href="https://github.com/alisaalisaalisaalisas/LLM_SuperCLI?tab=readme-ov-file#providers" target="_blank" rel="noopener">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400" alt="LLM SuperCLI" width="200" />
+</a>
+<p>CLI-инструмент с поддержкой нескольких LLM-провайдеров.</p>
+</div>
+</td>
+</tr>
+</table>
 
 
 
