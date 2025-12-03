@@ -134,90 +134,70 @@
 
 ### 🐍 Python
 
-**Web / Backend**  
-<div>
+**🔹 Web / Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-9C5C2A?style=for-the-badge)
-</div>
-<div>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-9C5C2A?style=for-the-badge) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
-</div>
-<div>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge) 
 ![Celery](https://img.shields.io/badge/Celery-3A8DD5?style=for-the-badge) 
 ![RQ](https://img.shields.io/badge/RQ-FF6600?style=for-the-badge) 
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499FDD?style=for-the-badge) 
-![Uvicorn](https://img.shields.io/badge/Uvicorn-3A3A3A?style=for-the-badge)
-</div>
+![Uvicorn](https://img.shields.io/badge/Uvicorn-3A3A3A?style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-**Data Science / ML**  
-<div>
+**🔹 Data Science / ML**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
-</div>
-<div>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-</div>
 
-**Desktop**  
-<div>
+**🔹 Desktop**  
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge) 
 ![PySide](https://img.shields.io/badge/PySide-41CD52?style=for-the-badge) 
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge) 
 ![Kivy](https://img.shields.io/badge/Kivy-43AA8B?style=for-the-badge)
-</div>
 
 ---
 
 ### ⚙️ C# (.NET)
 
-**Web / Backend**  
-<div>
+**🔹 Web / Backend**  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge) 
 ![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge) 
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
-</div>
-<div>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge) 
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge) 
 ![Serilog](https://img.shields.io/badge/Serilog-512BD4?style=for-the-badge) 
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge) 
 ![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge)
-</div>
 
-**Desktop**  
-<div>
+**🔹 Desktop**  
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge) 
 ![WinUI 3](https://img.shields.io/badge/WinUI3-512BD4?style=for-the-badge) 
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge) 
 ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?style=for-the-badge)
-</div>
 
-**GameDev**  
-<div>
+**🔹 GameDev**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge)
-</div>
 
 ---
 
 ### 💠 C++
 
-**Системное / High-performance ПО**  
-<div>
+**🔹 Системное / High-performance ПО**  
 ![CMake](https://img.shields.io/badge/CMake-6E6E6E?style=for-the-badge) 
 ![Conan](https://img.shields.io/badge/Conan-3153A4?style=for-the-badge) 
 ![vcpkg](https://img.shields.io/badge/vcpkg-0066B8?style=for-the-badge) 
@@ -226,24 +206,19 @@
 ![gRPC](https://img.shields.io/badge/gRPC-0F8F8F?style=for-the-badge) 
 ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge) 
 ![spdlog](https://img.shields.io/badge/spdlog-000000?style=for-the-badge) 
-![GoogleTest](https://img.shields.io/badge/GoogleTest-000000?style=for-the-badge)
-</div>
-<div>
+![GoogleTest](https://img.shields.io/badge/GoogleTest-000000?style=for-the-badge) 
 ![Clang](https://img.shields.io/badge/Clang-8F8F8F?style=for-the-badge) 
 ![GCC](https://img.shields.io/badge/GCC-FB5000?style=for-the-badge) 
 ![MSVC](https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-</div>
 
-**GameDev**  
-<div>
+**🔹 GameDev**  
 ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge) 
 ![SDL2](https://img.shields.io/badge/SDL2-007ACC?style=for-the-badge) 
 ![SFML](https://img.shields.io/badge/SFML-00A1E4?style=for-the-badge) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge) 
 ![Vulkan](https://img.shields.io/badge/Vulkan-3D3D3D?style=for-the-badge) 
 ![DirectX](https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge)
-</div>
 
 </div>
 
