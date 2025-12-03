@@ -83,35 +83,48 @@
 
 #### 🧩 Что разработал:
 
-* Лэндинг **Dog Dating** на Django  
-  — [dog](https://github.com/alisaalisaalisaalisas/dog)  
-    **Стек:** Python, Django, JS, HTML/CSS, Docker, Gunicorn
+---
 
-* 2D-игра на Python/Pygame  
-  — [game](https://github.com/alisaalisaalisaalisas/game)  
-    **Стек:** Python, Pygame, NumPy
+🍃 **Лэндинг Dog Dating на Django**  
+— [dog](https://github.com/alisaalisaalisaalisas/dog)  
+**Стек:** Python, Django, JS, HTML/CSS, Docker, Gunicorn
 
-* Личный сайт-визитка  
-  — [alisaalisaalisaalisas](https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas)  
-    **Стек:** HTML/CSS
+---
 
-* CLI-утилита для работы с LLM  
-  — [LLM_SuperCLI](https://github.com/alisaalisaalisaalisas/LLM_SuperCLI)  
-    **Стек:**  
-    - **Rich** — красивый вывод (панели, markdown, стили)  
-    - **httpx** — асинхронные запросы к LLM API  
-    - **click** — CLI-фреймворк  
-    - **prompt_toolkit** — интерактивный ввод  
-    **Тестирование:** pytest, hypothesis, pytest-asyncio  
-    **Качество кода:** mypy, ruff, black
-    <div align="left">
+🎮 **2D-игра на Python/Pygame**  
+— [game](https://github.com/alisaalisaalisaalisas/game)  
+**Стек:** Python, Pygame, NumPy
 
-💠 <strong>npm-установок:</strong>  
-<div style="display: inline-block; padding: 4px 10px; background: #0d6efd; color: white; border-radius: 6px; font-weight: 600;">
+---
+
+🧑‍💻 **Личный сайт-визитка**  
+— [alisaalisaalisaalisas](https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas)  
+**Стек:** HTML/CSS
+
+---
+
+🛠️ **CLI-утилита для работы с LLM**  
+— [LLM_SuperCLI](https://github.com/alisaalisaalisaalisas/LLM_SuperCLI)  
+**Стек:**  
+- **Rich** — красивый вывод (панели, markdown, стили)  
+- **httpx** — асинхронные запросы к LLM API  
+- **click** — CLI-фреймворк  
+- **prompt_toolkit** — интерактивный ввод  
+**Тестирование:** pytest, hypothesis, pytest-asyncio  
+**Качество кода:** mypy, ruff, black  
+
+<div align="left" style="margin-top: 6px;">
+
+💠 <strong>npm-установок:</strong>
+
+<div style="display: inline-block; padding: 4px 10px; background: #0d6efd; color: white; border-radius: 6px; font-weight: 600; margin-top: 4px;">
 🚀 1500+
 </div>
 
 </div>
+
+---
+
 
 
 
