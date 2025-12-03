@@ -148,6 +148,8 @@
 <img src="https://img.shields.io/badge/Gunicorn-499FDD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Uvicorn-3A3A3A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pytest-2436ED?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Unittest-2196ED?style=for-the-badge" />
 </div>
 
 **🔹 Data Science / ML**  
