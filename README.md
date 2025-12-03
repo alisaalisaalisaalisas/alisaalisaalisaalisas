@@ -104,7 +104,15 @@
     - **prompt_toolkit** — интерактивный ввод  
     **Тестирование:** pytest, hypothesis, pytest-asyncio  
     **Качество кода:** mypy, ruff, black
-    ![npm installs](https://img.shields.io/badge/npm%20installs-1500%2B-blue?style=for-the-badge)
+    <div align="left">
+
+💠 <strong>npm-установок:</strong>  
+<div style="display: inline-block; padding: 4px 10px; background: #0d6efd; color: white; border-radius: 6px; font-weight: 600;">
+🚀 1500+
+</div>
+
+</div>
+
 
 
 ## 🛠️ Мой арсенал технологий
