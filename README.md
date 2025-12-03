@@ -47,7 +47,7 @@
 
 * Проведение функционального, регрессионного, интеграционного и UI-тестирования  
 * Разработка тестовой документации: чек-листы, тест-кейсы, баг-репорты  
-* Тестирование API (Postman, cURL) — создание коллекций, написание автотестов на Python  
+* Тестирование API (Postman, cURL) — создание коллекций, написание автотестов на Python с использованием pytest, unittest  
 * Работа с базами данных (PostgreSQL) — составление сложных SELECT-запросов  
 * Тестирование веб-приложений, мобильных интерфейсов и backend-логики  
 * Использование Git/GitHub и CI/CD  
@@ -146,7 +146,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ### 🏗️ Инструменты и платформы
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
