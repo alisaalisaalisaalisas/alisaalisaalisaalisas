@@ -56,7 +56,11 @@
 #### 🧪 Достижения:
 
 * Создал мини-фреймворк для API-тестов  
-* Покрыл автотестами pet-проект Dog Dating  
+* Покрыл автотестами pet-проекты:
+  - [alisaalisaalisaalisas](https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas)
+  - [game](https://github.com/alisaalisaalisaalisas/game)
+  - [dog](https://github.com/alisaalisaalisaalisas/dog)
+  - [LLM_SuperCLI](https://github.com/alisaalisaalisaalisas/LLM_SuperCLI)
 * Нашёл критические баги в сторонних проектах  
 * Ускорил ручное тестирование примерно на **40%**
 
