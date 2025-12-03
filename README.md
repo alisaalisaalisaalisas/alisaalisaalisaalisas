@@ -74,7 +74,7 @@
 
 #### 💻 Навыки:
 
-* Python (OOP, структуры данных)  
+* Python (OOP, структуры данных), c++, c#  
 * Django  
 * HTML/CSS, базовый JS  
 * Docker  
@@ -84,11 +84,28 @@
 #### 🧩 Что разработал:
 
 * Лэндинг **Dog Dating** на Django  
-* 2D-игра на Python/Pygame  
-* Личный сайт-визитка  
-* Telegram-боты и скрипты
+  — [dog](https://github.com/alisaalisaalisaalisas/dog)  
+    **Стек:** Python, Django, JS, HTML/CSS, Docker, Gunicorn
 
----
+* 2D-игра на Python/Pygame  
+  — [game](https://github.com/alisaalisaalisaalisas/game)  
+    **Стек:** Python, Pygame, NumPy
+
+* Личный сайт-визитка  
+  — [alisaalisaalisaalisas](https://github.com/alisaalisaalisaalisas/alisaalisaalisaalisas)  
+    **Стек:** HTML/CSS
+
+* CLI-утилита для работы с LLM  
+  — [LLM_SuperCLI](https://github.com/alisaalisaalisaalisas/LLM_SuperCLI)  
+    **Стек:**  
+    - **Rich** — красивый вывод (панели, markdown, стили)  
+    - **httpx** — асинхронные запросы к LLM API  
+    - **click** — CLI-фреймворк  
+    - **prompt_toolkit** — интерактивный ввод  
+    **Тестирование:** pytest, hypothesis, pytest-asyncio  
+    **Качество кода:** mypy, ruff, black
+    ![npm installs](https://img.shields.io/badge/npm%20installs-1500%2B-blue?style=for-the-badge)
+
 
 ## 🛠️ Мой арсенал технологий
 
