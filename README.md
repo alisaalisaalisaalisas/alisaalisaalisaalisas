@@ -118,7 +118,7 @@
 💠 <strong>npm-установок:</strong>
 
 <div style="display: inline-block; padding: 4px 10px; background: #0d6efd; color: white; border-radius: 6px; font-weight: 600; margin-top: 4px;">
-🚀 2000+
+🚀 2500+
 </div>
 
 </div>
