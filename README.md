@@ -124,203 +124,54 @@
 </div>
 
 ---
+📦 Навыки
+<div align="center" style="max-width:900px; margin:auto;">
+  
+<table>
+  <tr>
+    <td><strong>Python — Web / Backend</strong></td>
+    <td>
+      <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">FastAPI</span>
+      <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">Django</span>
+      <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">Flask</span>
+      <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">SQLAlchemy</span>
+      <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>
+      <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>
+      <span style="background:#003B57;color:#fff;padding:4px 8px;border-radius:4px;">SQLite</span>
+      <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>
+      <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Celery</span>
+      <span style="background:#E74C3C;color:#fff;padding:4px 8px;border-radius:4px;">RQ</span>
+      <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Gunicorn</span>
+      <span style="background:#4C51BF;color:#fff;padding:4px 8px;border-radius:4px;">Uvicorn</span>
+      <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+    </td>
+  </tr>
 
-<!-- Вставь этот фрагмент в README.md или любой HTML-файл -->
-<style>
-  /* Контейнер */
-  .skills-table {
-    width: 100%;
-    max-width: 900px;
-    margin: 18px auto;
-    border-collapse: collapse;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  }
+  <tr>
+    <td><strong>Python — ML / Data Science</strong></td>
+    <td>
+      <span style="background:#013243;color:#fff;padding:4px 8px;border-radius:4px;">NumPy</span>
+      <span style="background:#150458;color:#fff;padding:4px 8px;border-radius:4px;">Pandas</span>
+      <span style="background:#1B4F72;color:#fff;padding:4px 8px;border-radius:4px;">SciPy</span>
+      <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Scikit-Learn</span>
+      <span style="background:#EE4C2C;color:#fff;padding:4px 8px;border-radius:4px;">PyTorch</span>
+      <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">TensorFlow</span>
+      <span style="background:#F39C12;color:#fff;padding:4px 8px;border-radius:4px;">Jupyter</span>
+      <span style="background:#1F618D;color:#fff;padding:4px 8px;border-radius:4px;">Matplotlib</span>
+      <span style="background:#2E86C1;color:#fff;padding:4px 8px;border-radius:4px;">Seaborn</span>
+    </td>
+  </tr>
 
-  /* Строки / ячейки */
-  .skills-table th {
-    text-align: left;
-    padding: 10px 12px;
-    font-size: 16px;
-    border-bottom: 2px solid rgba(0,0,0,0.08);
-  }
-  .skills-table td {
-    padding: 10px 12px;
-    vertical-align: top;
-    border-bottom: 1px solid rgba(0,0,0,0.05);
-  }
-
-  /* Бейджи */
-  .badge {
-    display: inline-block;
-    margin: 4px 6px 4px 0;
-    padding: 6px 10px;
-    font-size: 12px;
-    font-weight: 600;
-    color: #fff;
-    border-radius: 6px;
-    letter-spacing: .6px;
-    text-transform: uppercase;
-    box-shadow: 0 1px 0 rgba(0,0,0,0.12) inset;
-  }
-
-  /* Цвета для языков/категорий — легко редактировать */
-  .bg-python     { background:#3776AB; } /* Python blue */
-  .bg-ml         { background:#FF7F11; } /* ML orange */
-  .bg-desktop    { background:#41CD52; } /* Desktop green */
-
-  .bg-dotnet     { background:#512BD4; } /* .NET purple */
-  .bg-csharp     { background:#6C4BD3; }
-  .bg-cpp        { background:#00599C; } /* C++ navy */
-  .bg-gamedev    { background:#111111; } /* dark */
-
-  .bg-js         { background:#F7DF1E; color:#111; } /* JS yellow (dark text) */
-  .bg-ts         { background:#3178C6; } /* TS blue */
-
-  .bg-go         { background:#00ADD8; } /* Go blue */
-  .bg-backend    { background:#2496ED; } /* generic backend */
-
-  .badge:empty { display:none; }
-
-  /* Responsive: on narrow widths make table block */
-  @media (max-width:720px){
-    .skills-table, .skills-table thead, .skills-table tbody, .skills-table th, .skills-table td, .skills-table tr {
-      display:block;
-      width:100%;
-    }
-    .skills-table th { border-bottom:none; background:transparent; padding-top:14px; }
-    .skills-table td { padding-bottom:14px; }
-  }
-</style>
-
-<table class="skills-table" aria-label="Skills">
-  <thead>
-    <tr>
-      <th style="width:18%;">Язык / Стек</th>
-      <th style="width:22%;">Категория</th>
-      <th>Технологии</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Python -->
-    <tr>
-      <td><strong>Python</strong></td>
-      <td>Web / Data / Desktop</td>
-      <td>
-        <span class="badge bg-python">FastAPI</span>
-        <span class="badge bg-python">Django</span>
-        <span class="badge bg-python">Flask</span>
-        <span class="badge bg-python">SQLAlchemy</span>
-        <span class="badge bg-backend">PostgreSQL</span>
-        <span class="badge bg-backend">MySQL</span>
-        <span class="badge bg-backend">SQLite</span>
-        <span class="badge bg-backend">Redis</span>
-        <span class="badge bg-backend">Celery</span>
-        <span class="badge bg-backend">RQ</span>
-        <span class="badge bg-backend">Gunicorn</span>
-        <span class="badge bg-backend">Uvicorn</span>
-        <span class="badge bg-backend">Docker</span>
-        <span class="badge bg-python">Pytest</span>
-        <span class="badge bg-ml">NumPy</span>
-        <span class="badge bg-ml">Pandas</span>
-        <span class="badge bg-ml">SciPy</span>
-        <span class="badge bg-ml">Scikit-learn</span>
-        <span class="badge bg-ml">PyTorch</span>
-        <span class="badge bg-ml">TensorFlow</span>
-        <span class="badge bg-ml">Jupyter</span>
-        <span class="badge bg-ml">Matplotlib</span>
-        <span class="badge bg-ml">Seaborn</span>
-        <span class="badge bg-desktop">PyQt</span>
-        <span class="badge bg-desktop">PySide</span>
-        <span class="badge bg-desktop">Tkinter</span>
-        <span class="badge bg-desktop">Kivy</span>
-      </td>
-    </tr>
-
-    <!-- C# / .NET -->
-    <tr>
-      <td><strong>C# (.NET)</strong></td>
-      <td>Web / Desktop / Testing</td>
-      <td>
-        <span class="badge bg-dotnet">ASP.NET Core</span>
-        <span class="badge bg-dotnet">EntityFramework</span>
-        <span class="badge bg-backend">MS SQL</span>
-        <span class="badge bg-backend">PostgreSQL</span>
-        <span class="badge bg-backend">MySQL</span>
-        <span class="badge bg-backend">Redis</span>
-        <span class="badge bg-dotnet">SignalR</span>
-        <span class="badge bg-backend">Docker</span>
-        <span class="badge bg-backend">Kubernetes</span>
-        <span class="badge bg-dotnet">Serilog</span>
-        <span class="badge bg-dotnet">xUnit</span>
-        <span class="badge bg-dotnet">NUnit</span>
-        <span class="badge bg-desktop">WPF</span>
-        <span class="badge bg-desktop">WinUI3</span>
-        <span class="badge bg-desktop">MAUI</span>
-        <span class="badge bg-desktop">Avalonia</span>
-        <span class="badge bg-gamedev">Unity</span>
-      </td>
-    </tr>
-
-    <!-- C++ -->
-    <tr>
-      <td><strong>C++</strong></td>
-      <td>Systems / GameDev</td>
-      <td>
-        <span class="badge bg-cpp">CMake</span>
-        <span class="badge bg-cpp">Conan</span>
-        <span class="badge bg-cpp">vcpkg</span>
-        <span class="badge bg-cpp">Boost</span>
-        <span class="badge bg-desktop">Qt</span>
-        <span class="badge bg-cpp">gRPC</span>
-        <span class="badge bg-cpp">Protobuf</span>
-        <span class="badge bg-cpp">spdlog</span>
-        <span class="badge bg-cpp">GoogleTest</span>
-        <span class="badge bg-cpp">Clang</span>
-        <span class="badge bg-cpp">GCC</span>
-        <span class="badge bg-cpp">MSVC</span>
-        <span class="badge bg-backend">Docker</span>
-        <span class="badge bg-gamedev">UnrealEngine</span>
-        <span class="badge bg-gamedev">SDL2</span>
-        <span class="badge bg-gamedev">SFML</span>
-        <span class="badge bg-gamedev">OpenGL</span>
-        <span class="badge bg-gamedev">Vulkan</span>
-        <span class="badge bg-gamedev">DirectX</span>
-      </td>
-    </tr>
-
-    <!-- JavaScript / TypeScript -->
-    <tr>
-      <td><strong>JavaScript / TypeScript</strong></td>
-      <td>Frontend / Fullstack</td>
-      <td>
-        <span class="badge bg-js">JavaScript</span>
-        <span class="badge bg-ts">TypeScript</span>
-        <span class="badge bg-ts">React</span>
-        <span class="badge bg-ts">Next.js</span>
-        <span class="badge bg-backend">Node.js</span>
-        <span class="badge bg-backend">Express</span>
-        <span class="badge bg-backend">Vite</span>
-        <span class="badge bg-backend">NPM</span>
-        <span class="badge bg-backend">Yarn</span>
-      </td>
-    </tr>
-
-    <!-- Go -->
-    <tr>
-      <td><strong>Go</strong></td>
-      <td>Backend / Systems</td>
-      <td>
-        <span class="badge bg-go">Go</span>
-        <span class="badge bg-go">Gin</span>
-        <span class="badge bg-go">Fiber</span>
-        <span class="badge bg-go">gRPC</span>
-        <span class="badge bg-go">Protobuf</span>
-        <span class="badge bg-backend">Docker</span>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td><strong>Python — Desktop</strong></td>
+    <td>
+      <span style="background:#41CD52;color:#fff;padding:4px 8px;border-radius:4px;">PyQt</span>
+      <span style="background:#0DB7ED;color:#fff;padding:4px 8px;border-radius:4px;">PySide</span>
+      <span style="background:#F7DF1E;color:#000;padding:4px 8px;border-radius:4px;">Tkinter</span>
+      <span style="background:#81C784;color:#000;padding:4px 8px;border-radius:4px;">Kivy</span>
+    </td>
+  </tr>
 </table>
-
 
 
 
