@@ -298,10 +298,204 @@
 </table>
 
 
+🛠️ DevOps / CI/CD / Infrastructure
+
+<table>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">CI/CD</th>
+    <td style="background-color:#ffccd5;padding:6px 12px;">
+      GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Containerization</th>
+    <td style="background-color:#ffb3c1;padding:6px 12px;">
+      Docker, Docker Compose, BuildKit, Podman
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Orchestration</th>
+    <td style="background-color:#ff8fa3;padding:6px 12px;">
+      Kubernetes, Minikube, Kind, k3s, OpenShift
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Web Servers / Proxy</th>
+    <td style="background-color:#ff758f;padding:6px 12px;">
+      Nginx, Traefik, Caddy, Apache
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Monitoring / Logging</th>
+    <td style="background-color:#ffb3c1;padding:6px 12px;">
+      Prometheus, Grafana, Loki, ELK / OpenSearch, Sentry
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Infrastructure</th>
+    <td style="background-color:#ffc2d1;padding:6px 12px;">
+      Terraform, Ansible, Cloudflare, AWS, GCP, Azure
+    </td>
+  </tr>
+</table>
 
 
+<!-- 1. Databases -->
+<div class="skill-title"><span class="acc-db">🗄️ Databases & Storage</span></div>
+<table class="skill-table">
+<tr>
+  <th>Storage</th>
+  <td>PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Redis, MongoDB, ClickHouse, Elasticsearch / OpenSearch</td>
+</tr>
+<tr>
+  <th>Messaging</th>
+  <td>RabbitMQ, Kafka</td>
+</tr>
+</table>
 
+<!-- 2. Cloud -->
+<div class="skill-title"><span class="acc-cloud">☁️ Cloud Platforms</span></div>
+<table class="skill-table">
+<tr>
+  <th>AWS</th>
+  <td>EC2, S3, RDS, Lambda, EKS</td>
+</tr>
+<tr>
+  <th>GCP</th>
+  <td>GKE, Cloud Run, Firestore</td>
+</tr>
+<tr>
+  <th>Azure</th>
+  <td>App Service, AKS, Functions</td>
+</tr>
+</table>
 
+<!-- 3. Security -->
+<div class="skill-title"><span class="acc-sec">🔐 Security / Networking</span></div>
+<table class="skill-table">
+<tr>
+  <th>Auth</th>
+  <td>TLS/SSL, JWT, OAuth2, OpenID Connect</td>
+</tr>
+<tr>
+  <th>Networking</th>
+  <td>Nginx, Traefik, WireGuard, Firewall, Zero-Trust basics</td>
+</tr>
+<tr>
+  <th>Secrets</th>
+  <td>Vault, SOPS, KMS</td>
+</tr>
+</table>
+
+<!-- 4. Testing -->
+<div class="skill-title"><span class="acc-test">🧪 Testing & Quality</span></div>
+<table class="skill-table">
+<tr>
+  <th>Unit Testing</th>
+  <td>xUnit, NUnit, PyTest, GoogleTest</td>
+</tr>
+<tr>
+  <th>Performance</th>
+  <td>k6, JMeter</td>
+</tr>
+<tr>
+  <th>Static Analysis</th>
+  <td>SonarQube, clang-tidy, ESLint, mypy</td>
+</tr>
+</table>
+
+<!-- 5. Build -->
+<div class="skill-title"><span class="acc-build">📦 Build / Packaging</span></div>
+<table class="skill-table">
+<tr>
+  <th>C++ Build</th>
+  <td>CMake, Conan, vcpkg</td>
+</tr>
+<tr>
+  <th>.NET Build</th>
+  <td>MSBuild, dotnet CLI</td>
+</tr>
+<tr>
+  <th>Python</th>
+  <td>Poetry, PyInstaller</td>
+</tr>
+<tr>
+  <th>Frontend</th>
+  <td>Webpack, Vite, Rollup</td>
+</tr>
+</table>
+
+<!-- 6. Architecture -->
+<div class="skill-title"><span class="acc-arch">🏛️ Architecture / Patterns</span></div>
+<table class="skill-table">
+<tr>
+  <th>Principles</th>
+  <td>Clean Architecture, SOLID, DDD</td>
+</tr>
+<tr>
+  <th>Patterns</th>
+  <td>CQRS, Pub/Sub, Event-driven architecture</td>
+</tr>
+<tr>
+  <th>APIs</th>
+  <td>REST, WebSocket, gRPC</td>
+</tr>
+<tr>
+  <th>Systems</th>
+  <td>Microservices patterns</td>
+</tr>
+</table>
+
+<!-- 7. Tools -->
+<div class="skill-title"><span class="acc-tools">🛠️ Tools / Productivity</span></div>
+<table class="skill-table">
+<tr>
+  <th>Core</th>
+  <td>Git, GitFlow, Docker Desktop, Rancher Desktop</td>
+</tr>
+<tr>
+  <th>IDE</th>
+  <td>VS Code, Visual Studio, JetBrains IDEs</td>
+</tr>
+<tr>
+  <th>Utilities</th>
+  <td>Postman, Insomnia, Figma</td>
+</tr>
+<tr>
+  <th>Linux</th>
+  <td>Bash, systemctl, journalctl</td>
+</tr>
+</table>
+
+<!-- 8. OS -->
+<div class="skill-title"><span class="acc-os">💻 Operating Systems</span></div>
+<table class="skill-table">
+<tr>
+  <th>Linux</th>
+  <td>Ubuntu, Debian, Arch</td>
+</tr>
+<tr>
+  <th>Other</th>
+  <td>Windows, macOS, PowerShell</td>
+</tr>
+</table>
+
+<!-- 9. AI -->
+<div class="skill-title"><span class="acc-ml">🤖 AI / ML / LLM Tools</span></div>
+<table class="skill-table">
+<tr>
+  <th>LLM</th>
+  <td>OpenAI API, LangChain, Prompt Engineering</td>
+</tr>
+<tr>
+  <th>Models</th>
+  <td>Whisper, TTS, HuggingFace, ONNX Runtime</td>
+</tr>
+<tr>
+  <th>Vector DB</th>
+  <td>FAISS, Chroma</td>
+</tr>
+</table>
 
 ## 🚀 Мои проекты
 
