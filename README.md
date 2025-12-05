@@ -125,36 +125,204 @@
 
 ---
 
+<!-- Вставь этот фрагмент в README.md или любой HTML-файл -->
+<style>
+  /* Контейнер */
+  .skills-table {
+    width: 100%;
+    max-width: 900px;
+    margin: 18px auto;
+    border-collapse: collapse;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  }
+
+  /* Строки / ячейки */
+  .skills-table th {
+    text-align: left;
+    padding: 10px 12px;
+    font-size: 16px;
+    border-bottom: 2px solid rgba(0,0,0,0.08);
+  }
+  .skills-table td {
+    padding: 10px 12px;
+    vertical-align: top;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+
+  /* Бейджи */
+  .badge {
+    display: inline-block;
+    margin: 4px 6px 4px 0;
+    padding: 6px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 6px;
+    letter-spacing: .6px;
+    text-transform: uppercase;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.12) inset;
+  }
+
+  /* Цвета для языков/категорий — легко редактировать */
+  .bg-python     { background:#3776AB; } /* Python blue */
+  .bg-ml         { background:#FF7F11; } /* ML orange */
+  .bg-desktop    { background:#41CD52; } /* Desktop green */
+
+  .bg-dotnet     { background:#512BD4; } /* .NET purple */
+  .bg-csharp     { background:#6C4BD3; }
+  .bg-cpp        { background:#00599C; } /* C++ navy */
+  .bg-gamedev    { background:#111111; } /* dark */
+
+  .bg-js         { background:#F7DF1E; color:#111; } /* JS yellow (dark text) */
+  .bg-ts         { background:#3178C6; } /* TS blue */
+
+  .bg-go         { background:#00ADD8; } /* Go blue */
+  .bg-backend    { background:#2496ED; } /* generic backend */
+
+  .badge:empty { display:none; }
+
+  /* Responsive: on narrow widths make table block */
+  @media (max-width:720px){
+    .skills-table, .skills-table thead, .skills-table tbody, .skills-table th, .skills-table td, .skills-table tr {
+      display:block;
+      width:100%;
+    }
+    .skills-table th { border-bottom:none; background:transparent; padding-top:14px; }
+    .skills-table td { padding-bottom:14px; }
+  }
+</style>
+
+<table class="skills-table" aria-label="Skills">
+  <thead>
+    <tr>
+      <th style="width:18%;">Язык / Стек</th>
+      <th style="width:22%;">Категория</th>
+      <th>Технологии</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Python -->
+    <tr>
+      <td><strong>Python</strong></td>
+      <td>Web / Data / Desktop</td>
+      <td>
+        <span class="badge bg-python">FastAPI</span>
+        <span class="badge bg-python">Django</span>
+        <span class="badge bg-python">Flask</span>
+        <span class="badge bg-python">SQLAlchemy</span>
+        <span class="badge bg-backend">PostgreSQL</span>
+        <span class="badge bg-backend">MySQL</span>
+        <span class="badge bg-backend">SQLite</span>
+        <span class="badge bg-backend">Redis</span>
+        <span class="badge bg-backend">Celery</span>
+        <span class="badge bg-backend">RQ</span>
+        <span class="badge bg-backend">Gunicorn</span>
+        <span class="badge bg-backend">Uvicorn</span>
+        <span class="badge bg-backend">Docker</span>
+        <span class="badge bg-python">Pytest</span>
+        <span class="badge bg-ml">NumPy</span>
+        <span class="badge bg-ml">Pandas</span>
+        <span class="badge bg-ml">SciPy</span>
+        <span class="badge bg-ml">Scikit-learn</span>
+        <span class="badge bg-ml">PyTorch</span>
+        <span class="badge bg-ml">TensorFlow</span>
+        <span class="badge bg-ml">Jupyter</span>
+        <span class="badge bg-ml">Matplotlib</span>
+        <span class="badge bg-ml">Seaborn</span>
+        <span class="badge bg-desktop">PyQt</span>
+        <span class="badge bg-desktop">PySide</span>
+        <span class="badge bg-desktop">Tkinter</span>
+        <span class="badge bg-desktop">Kivy</span>
+      </td>
+    </tr>
+
+    <!-- C# / .NET -->
+    <tr>
+      <td><strong>C# (.NET)</strong></td>
+      <td>Web / Desktop / Testing</td>
+      <td>
+        <span class="badge bg-dotnet">ASP.NET Core</span>
+        <span class="badge bg-dotnet">EntityFramework</span>
+        <span class="badge bg-backend">MS SQL</span>
+        <span class="badge bg-backend">PostgreSQL</span>
+        <span class="badge bg-backend">MySQL</span>
+        <span class="badge bg-backend">Redis</span>
+        <span class="badge bg-dotnet">SignalR</span>
+        <span class="badge bg-backend">Docker</span>
+        <span class="badge bg-backend">Kubernetes</span>
+        <span class="badge bg-dotnet">Serilog</span>
+        <span class="badge bg-dotnet">xUnit</span>
+        <span class="badge bg-dotnet">NUnit</span>
+        <span class="badge bg-desktop">WPF</span>
+        <span class="badge bg-desktop">WinUI3</span>
+        <span class="badge bg-desktop">MAUI</span>
+        <span class="badge bg-desktop">Avalonia</span>
+        <span class="badge bg-gamedev">Unity</span>
+      </td>
+    </tr>
+
+    <!-- C++ -->
+    <tr>
+      <td><strong>C++</strong></td>
+      <td>Systems / GameDev</td>
+      <td>
+        <span class="badge bg-cpp">CMake</span>
+        <span class="badge bg-cpp">Conan</span>
+        <span class="badge bg-cpp">vcpkg</span>
+        <span class="badge bg-cpp">Boost</span>
+        <span class="badge bg-desktop">Qt</span>
+        <span class="badge bg-cpp">gRPC</span>
+        <span class="badge bg-cpp">Protobuf</span>
+        <span class="badge bg-cpp">spdlog</span>
+        <span class="badge bg-cpp">GoogleTest</span>
+        <span class="badge bg-cpp">Clang</span>
+        <span class="badge bg-cpp">GCC</span>
+        <span class="badge bg-cpp">MSVC</span>
+        <span class="badge bg-backend">Docker</span>
+        <span class="badge bg-gamedev">UnrealEngine</span>
+        <span class="badge bg-gamedev">SDL2</span>
+        <span class="badge bg-gamedev">SFML</span>
+        <span class="badge bg-gamedev">OpenGL</span>
+        <span class="badge bg-gamedev">Vulkan</span>
+        <span class="badge bg-gamedev">DirectX</span>
+      </td>
+    </tr>
+
+    <!-- JavaScript / TypeScript -->
+    <tr>
+      <td><strong>JavaScript / TypeScript</strong></td>
+      <td>Frontend / Fullstack</td>
+      <td>
+        <span class="badge bg-js">JavaScript</span>
+        <span class="badge bg-ts">TypeScript</span>
+        <span class="badge bg-ts">React</span>
+        <span class="badge bg-ts">Next.js</span>
+        <span class="badge bg-backend">Node.js</span>
+        <span class="badge bg-backend">Express</span>
+        <span class="badge bg-backend">Vite</span>
+        <span class="badge bg-backend">NPM</span>
+        <span class="badge bg-backend">Yarn</span>
+      </td>
+    </tr>
+
+    <!-- Go -->
+    <tr>
+      <td><strong>Go</strong></td>
+      <td>Backend / Systems</td>
+      <td>
+        <span class="badge bg-go">Go</span>
+        <span class="badge bg-go">Gin</span>
+        <span class="badge bg-go">Fiber</span>
+        <span class="badge bg-go">gRPC</span>
+        <span class="badge bg-go">Protobuf</span>
+        <span class="badge bg-backend">Docker</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
-📦 Навыки
-<div align="center" style="max-width:900px; margin:auto;">
-🐍 Python
-🔹 Web / Backend
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLAlchemy-9C5C2A?style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" /> <img src="https://img.shields.io/badge/Celery-3A8DD5?style=for-the-badge" /> <img src="https://img.shields.io/badge/RQ-FF6600?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gunicorn-499FDD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Uvicorn-3A3A3A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pytest-2496ED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Unittest-2196ED?style=for-the-badge" /> </div>
-🔹 Data Science / ML
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" /> </div>
-🔹 Desktop
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge" /> <img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kivy-43AA8B?style=for-the-badge" /> </div>
-⚙️ C# (.NET)
-🔹 Web / Backend
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" /> <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Serilog-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge" /> </div>
-🔹 Desktop
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/WinUI3-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Avalonia-512BD4?style=for-the-badge" /> </div>
-🔹 GameDev
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge" /> </div>
-💠 C++
-🔹 High-performance / System
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/CMake-6E6E6E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Conan-3153A4?style=for-the-badge" /> <img src="https://img.shields.io/badge/vcpkg-0066B8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge" /> <img src="https://img.shields.io/badge/gRPC-0F8F8F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/spdlog-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/GoogleTest-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Clang-8F8F8F?style=for-the-badge" /> <img src="https://img.shields.io/badge/GCC-FB5000?style=for-the-badge" /> <img src="https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" /> </div>
-🔹 GameDev
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge" /> <img src="https://img.shields.io/badge/SDL2-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/SFML-00A1E4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vulkan-3D3D3D?style=for-the-badge" /> <img src="https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge" /> </div>
-⚡ JavaScript / TypeScript
-🔹 Frontend / Fullstack
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge" /> </div>
-🐹 Go
-🔹 Backend / System
-<div style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge" /> <img src="https://img.shields.io/badge/gRPC-0F8F8F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" /> </div>
-</div>
+
 
 
 
