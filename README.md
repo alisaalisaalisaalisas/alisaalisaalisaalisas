@@ -127,6 +127,22 @@
 ## 📦 Навыки
 <div align="center" style="max-width:900px; margin:auto;">
 
+<table>
+  <tr>
+    <th style="background-color:#2d6a4f;color:white;padding:6px 12px;">Web / Backend</th>
+    <td style="background-color:#95d5b2;padding:6px 12px;">FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, MySQL, SQLite, Redis, Celery, RQ, Gunicorn, Uvicorn, Docker</td>
+  </tr>
+  <tr>
+    <th style="background-color:#2d6a4f;color:white;padding:6px 12px;">Data Science / ML</th>
+    <td style="background-color:#b7e4c7;padding:6px 12px;">NumPy, Pandas, SciPy, Scikit-Learn, PyTorch, TensorFlow, Jupyter, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <th style="background-color:#2d6a4f;color:white;padding:6px 12px;">Desktop</th>
+    <td style="background-color:#d8f3dc;padding:6px 12px;">PyQt, PySide, Tkinter, Kivy</td>
+  </tr>
+</table>
+
+
 <!-- ========== 🐍 PYTHON (GREEN) ========== -->
 <h2>🐍 Python</h2>
 <table style="background:#e8f5e9;padding:12px;border-radius:8px;width:100%;">
