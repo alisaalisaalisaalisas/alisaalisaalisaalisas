@@ -273,6 +273,7 @@
       <span style="background:#646CFF;color:#fff;padding:4px 8px;border-radius:4px;">Vite</span>,
       <span style="background:#CB3837;color:#fff;padding:4px 8px;border-radius:4px;">NPM</span>,
       <span style="background:#2C8EBB;color:#fff;padding:4px 8px;border-radius:4px;">Yarn</span>
+      <span style="background:#2C8EBB;color:#fff;padding:4px 8px;border-radius:4px;">Vue.js</span>
     </td>
   </tr>
 </table>
