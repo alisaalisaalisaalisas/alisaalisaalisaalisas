@@ -160,7 +160,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 ✔ Docker, Kubernetes
 ✔ Cloud (AWS, GCP, Azure)
 
-*(Full formatted tables preserved above — no need to duplicate them here.)*
 
 ---
 
@@ -191,13 +190,3 @@ My journey is all about continuous growth, problem-solving, and making products 
 ---
 
 ## ⭐ If you liked my portfolio — leave a star!
-
----
-
-Если хочешь, я могу:
-✅ сократить текст для LinkedIn
-✅ оформить как резюме (ATS-friendly)
-✅ сделать минималистичную версию для GitHub
-✅ улучшить стиль, формальность, подачу
-
-Сказать, какой формат нужен?
