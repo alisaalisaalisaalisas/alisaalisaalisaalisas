@@ -165,7 +165,9 @@ My journey is all about continuous growth, problem-solving, and making products 
     <span style="background:#E74C3C;color:#fff;padding:4px 8px;border-radius:4px;">RQ</span>,
     <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Gunicorn</span>,
     <span style="background:#4C51BF;color:#fff;padding:4px 8px;border-radius:4px;">Uvicorn</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
+   <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">MongoDB</span>,
+   <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>
   </td>
 </tr>
 <tr>
