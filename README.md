@@ -145,11 +145,9 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 ---
 
-## 📦 Skills
+## 📦 All Skills
 
-*(All skills blocks remain exactly as in your markup — translated where needed.)*
-
-✔ Python stack
+✔ Python Fullstack (Django, FastApi)
 ✔ C# / .NET stack
 ✔ C++ ecosystem
 ✔ JS/TS + frontend tools
