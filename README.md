@@ -39,7 +39,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 ---
 
-## 💼 Work Experience
+## 🧪 QA Engineer  Experience
 
 ### **QA Engineer — Pet Projects**
 
