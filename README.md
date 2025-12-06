@@ -308,31 +308,44 @@ My journey is all about continuous growth, problem-solving, and making products 
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
 <table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">CI/CD</th>,
-  <td style="background-color:#ffccd5;padding:6px 12px;">GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize</td>
-</tr>
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Containerization</th>,
-  <td style="background-color:#ffb3c1;padding:6px 12px;">Docker, Docker Compose, BuildKit, Podman</td>
-</tr>
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Orchestration</th>,
-  <td style="background-color:#ff8fa3;padding:6px 12px;">Kubernetes, Minikube, Kind, k3s, OpenShift</td>
-</tr>
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Web Servers / Proxy</th>,
-  <td style="background-color:#ff758f;padding:6px 12px;">Nginx, Traefik, Caddy, Apache</td>
-</tr>
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Monitoring / Logging</th>,
-  <td style="background-color:#ffb3c1;padding:6px 12px;">Prometheus, Grafana, Loki, ELK / OpenSearch, Sentry</td>
-</tr>
-<tr>
-  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Infrastructure</th>,
-  <td style="background-color:#ffc2d1;padding:6px 12px;">Terraform, Ansible, Cloudflare, AWS, GCP, Azure</td>
-</tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">CI/CD</th>
+    <td style="background-color:#ffccd5;padding:6px 12px;">
+      GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Containerization</th>
+    <td style="background-color:#ffb3c1;padding:6px 12px;">
+      Docker, Docker Compose, BuildKit, Podman
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Orchestration</th>
+    <td style="background-color:#ff8fa3;padding:6px 12px;">
+      Kubernetes, Minikube, Kind, k3s, OpenShift
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Web Servers / Proxy</th>
+    <td style="background-color:#ff758f;padding:6px 12px;">
+      Nginx, Traefik, Caddy, Apache
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Monitoring / Logging</th>
+    <td style="background-color:#ffb3c1;padding:6px 12px;">
+      Prometheus, Grafana, Loki, ELK / OpenSearch, Sentry
+    </td>
+  </tr>
+  <tr>
+    <th style="background-color:#6a040f;color:white;padding:6px 12px;">Infrastructure</th>
+    <td style="background-color:#ffc2d1;padding:6px 12px;">
+      Terraform, Ansible, Cloudflare, AWS, GCP, Azure
+    </td>
+  </tr>
 </table>
+
 
 
 
