@@ -307,7 +307,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
-<table style="font-family:sans-serif;">
+<table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
 <tr>
   <th style="background-color:#6a040f;color:white;padding:6px 12px;">CI/CD</th>,
   <td style="background-color:#ffccd5;padding:6px 12px;">GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize</td>
