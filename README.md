@@ -145,19 +145,194 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 ---
 
-## 📦 All Skills
+<h1 style="font-family:sans-serif;margin-bottom:18px;">📦 Tech Stack Overview</h1>
 
-✔ Python Fullstack (Django, FastApi)
-✔ C# / .NET stack
-✔ C++ ecosystem
-✔ JS/TS + frontend tools
-✔ Go + backend ecosystem
-✔ DevOps / CI/CD / Infrastructure
-✔ Monitoring (Grafana, Prometheus, Loki)
-✔ ELK / OpenSearch
-✔ Docker, Kubernetes
-✔ Cloud (AWS, GCP, Azure)
+<!-- ========== 🐍 PYTHON ========== -->
+<h2>🐍 Python</h2>
+<table style="background:#e8f5e9;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Web / Backend</strong></td>
+  <td>
+    <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">FastAPI</span>
+    <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">Django</span>
+    <span style="background:#3572A5;color:#fff;padding:4px 8px;border-radius:4px;">Flask</span>
+    <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">SQLAlchemy</span>
+    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>
+    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>
+    <span style="background:#003B57;color:#fff;padding:4px 8px;border-radius:4px;">SQLite</span>
+    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>
+    <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Celery</span>
+    <span style="background:#E74C3C;color:#fff;padding:4px 8px;border-radius:4px;">RQ</span>
+    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Gunicorn</span>
+    <span style="background:#4C51BF;color:#fff;padding:4px 8px;border-radius:4px;">Uvicorn</span>
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+  </td>
+</tr>
+<tr>
+  <td><strong>Data Science / ML</strong></td>
+  <td>
+    <span style="background:#013243;color:#fff;padding:4px 8px;border-radius:4px;">NumPy</span>
+    <span style="background:#150458;color:#fff;padding:4px 8px;border-radius:4px;">Pandas</span>
+    <span style="background:#1B4F72;color:#fff;padding:4px 8px;border-radius:4px;">SciPy</span>
+    <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Scikit-Learn</span>
+    <span style="background:#EE4C2C;color:#fff;padding:4px 8px;border-radius:4px;">PyTorch</span>
+    <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">TensorFlow</span>
+    <span style="background:#F39C12;color:#fff;padding:4px 8px;border-radius:4px;">Jupyter</span>
+    <span style="background:#1F618D;color:#fff;padding:4px 8px;border-radius:4px;">Matplotlib</span>
+    <span style="background:#2E86C1;color:#fff;padding:4px 8px;border-radius:4px;">Seaborn</span>
+  </td>
+</tr>
+<tr>
+  <td><strong>Desktop</strong></td>
+  <td>
+    <span style="background:#41CD52;color:#fff;padding:4px 8px;border-radius:4px;">PyQt</span>
+    <span style="background:#0DB7ED;color:#fff;padding:4px 8px;border-radius:4px;">PySide</span>
+    <span style="background:#F7DF1E;color:#000;padding:4px 8px;border-radius:4px;">Tkinter</span>
+    <span style="background:#81C784;color:#000;padding:4px 8px;border-radius:4px;">Kivy</span>
+  </td>
+</tr>
+</table>
+<br>
 
+<!-- ========== ⚙️ C# / .NET ========== -->
+<h2>⚙️ C# / .NET</h2>
+<table style="background:#f3e5f5;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Web / Backend</strong></td>
+  <td>
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework</span>
+    <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL</span>
+    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>
+    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>
+    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>
+    <span style="background:#7F8CFF;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+    <span style="background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>
+    <span style="background:#4E5D94;color:#fff;padding:4px 8px;border-radius:4px;">Serilog</span>
+    <span style="background:#7E57C2;color:#fff;padding:4px 8px;border-radius:4px;">xUnit</span>
+    <span style="background:#CE93D8;color:#fff;padding:4px 8px;border-radius:4px;">NUnit</span>
+  </td>
+</tr>
+<tr>
+  <td><strong>Desktop</strong></td>
+  <td>
+    <span style="background:#6A1B9A;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>
+    <span style="background:#3F51B5;color:#fff;padding:4px 8px;border-radius:4px;">WinUI3</span>
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">MAUI</span>
+    <span style="background:#4A148C;color:#fff;padding:4px 8px;border-radius:4px;">Avalonia</span>
+  </td>
+</tr>
+<tr>
+  <td><strong>GameDev</strong></td>
+  <td>
+    <span style="background:#222;color:#fff;padding:4px 8px;border-radius:4px;">Unity</span>
+  </td>
+</tr>
+</table>
+<br>
+
+<!-- ========== 💠 C++ ========== -->
+<h2>💠 C++</h2>
+<table style="background:#e3f2fd;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>High-performance / System</strong></td>
+  <td>
+    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">CMake</span>
+    <span style="background:#1B76D1;color:#fff;padding:4px 8px;border-radius:4px;">Conan</span>
+    <span style="background:#0A71C1;color:#fff;padding:4px 8px;border-radius:4px;">vcpkg</span>
+    <span style="background:#005F9E;color:#fff;padding:4px 8px;border-radius:4px;">Boost</span>
+    <span style="background:#41CD52;color:#fff;padding:4px 8px;border-radius:4px;">Qt</span>
+    <span style="background:#00AF00;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>
+    <span style="background:#7E57C2;color:#fff;padding:4px 8px;border-radius:4px;">Protobuf</span>
+    <span style="background:#212121;color:#fff;padding:4px 8px;border-radius:4px;">spdlog</span>
+    <span style="background:#4285F4;color:#fff;padding:4px 8px;border-radius:4px;">GoogleTest</span>
+    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Clang</span>
+    <span style="background:#DD4A00;color:#fff;padding:4px 8px;border-radius:4px;">GCC</span>
+    <span style="background:#007ACC;color:#fff;padding:4px 8px;border-radius:4px;">MSVC</span>
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+  </td>
+</tr>
+<tr>
+  <td><strong>GameDev</strong></td>
+  <td>
+    <span style="background:#313131;color:#fff;padding:4px 8px;border-radius:4px;">Unreal Engine</span>
+    <span style="background:#1E88E5;color:#fff;padding:4px 8px;border-radius:4px;">SDL2</span>
+    <span style="background:#00ACC1;color:#fff;padding:4px 8px;border-radius:4px;">SFML</span>
+    <span style="background:#558B2F;color:#fff;padding:4px 8px;border-radius:4px;">OpenGL</span>
+    <span style="background:#1976D2;color:#fff;padding:4px 8px;border-radius:4px;">Vulkan</span>
+    <span style="background:#4A90E2;color:#fff;padding:4px 8px;border-radius:4px;">DirectX</span>
+  </td>
+</tr>
+</table>
+<br>
+
+<!-- ========== ⚡ JS/TS ========== -->
+<h2>⚡ JavaScript / TypeScript</h2>
+<table style="background:#fffde7;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Frontend / Fullstack</strong></td>
+  <td>
+    <span style="background:#e34c26;color:#fff;padding:4px 8px;border-radius:4px;">HTML</span>
+    <span style="background:#264de4;color:#fff;padding:4px 8px;border-radius:4px;">CSS</span>
+    <span style="background:#61DAFB;color:#000;padding:4px 8px;border-radius:4px;">React</span>
+    <span style="background:#000;color:#fff;padding:4px 8px;border-radius:4px;">Next.js</span>
+    <span style="background:#83CD29;color:#fff;padding:4px 8px;border-radius:4px;">Node.js</span>
+    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Express</span>
+    <span style="background:#646CFF;color:#fff;padding:4px 8px;border-radius:4px;">Vite</span>
+    <span style="background:#CB3837;color:#fff;padding:4px 8px;border-radius:4px;">NPM</span>
+    <span style="background:#2C8EBB;color:#fff;padding:4px 8px;border-radius:4px;">Yarn</span>
+    <span style="background:#2C8EBB;color:#fff;padding:4px 8px;border-radius:4px;">Vue.js</span>
+  </td>
+</tr>
+</table>
+<br>
+
+<!-- ========== 🐹 GO ========== -->
+<h2>🐹 Go</h2>
+<table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Backend / System</strong></td>
+  <td>
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>
+    <span style="background:#008ECF;color:#fff;padding:4px 8px;border-radius:4px;">Gin</span>
+    <span style="background:#00BFA5;color:#fff;padding:4px 8px;border-radius:4px;">Fiber</span>
+    <span style="background:#00AF00;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>
+    <span style="background:#7E57C2;color:#fff;padding:4px 8px;border-radius:4px;">Protobuf</span>
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+  </td>
+</tr>
+</table>
+<br>
+
+<!-- ========== 🛠️ DEVOPS ========== -->
+<h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
+<table style="font-family:sans-serif;">
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">CI/CD</th>
+  <td style="background-color:#ffccd5;padding:6px 12px;">GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize</td>
+</tr>
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Containerization</th>
+  <td style="background-color:#ffb3c1;padding:6px 12px;">Docker, Docker Compose, BuildKit, Podman</td>
+</tr>
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Orchestration</th>
+  <td style="background-color:#ff8fa3;padding:6px 12px;">Kubernetes, Minikube, Kind, k3s, OpenShift</td>
+</tr>
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Web Servers / Proxy</th>
+  <td style="background-color:#ff758f;padding:6px 12px;">Nginx, Traefik, Caddy, Apache</td>
+</tr>
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Monitoring / Logging</th>
+  <td style="background-color:#ffb3c1;padding:6px 12px;">Prometheus, Grafana, Loki, ELK / OpenSearch, Sentry</td>
+</tr>
+<tr>
+  <th style="background-color:#6a040f;color:white;padding:6px 12px;">Infrastructure</th>
+  <td style="background-color:#ffc2d1;padding:6px 12px;">Terraform, Ansible, Cloudflare, AWS, GCP, Azure</td>
+</tr>
+</table>
 
 ---
 
