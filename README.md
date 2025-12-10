@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, C++, Go, C#, HTML/CSS, basic JS/TS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, C++, C#, HTML/CSS, basic JS/TS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -290,22 +290,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
-<!-- ========== 🐹 GO ========== -->
-<h2>🐹 Go</h2>
-<table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Backend / System</strong></td>
-  <td>
-    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>,
-    <span style="background:#008ECF;color:#fff;padding:4px 8px;border-radius:4px;">Gin</span>,
-    <span style="background:#00BFA5;color:#fff;padding:4px 8px;border-radius:4px;">Fiber</span>,
-    <span style="background:#00AF00;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>,
-    <span style="background:#7E57C2;color:#fff;padding:4px 8px;border-radius:4px;">Protobuf</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
-  </td>
-</tr>
-</table>
-<br>
 
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
