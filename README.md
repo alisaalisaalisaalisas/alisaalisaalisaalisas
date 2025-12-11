@@ -291,6 +291,27 @@ My journey is all about continuous growth, problem-solving, and making products 
 <br>
 
 
+<!-- ========== 🐹 Go (Golang) ========== -->
+<h2>🐹 Go (Golang)</h2>
+<table style="background:#e7f7ff;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Backend / Systems</strong></td>
+  <td>
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>
+    <span style="background:#333;color:#fff;padding:4px 8px;border-radius:4px;">Gin</span>
+    <span style="background:#1F8ACB;color:#fff;padding:4px 8px;border-radius:4px;">Fiber</span>
+    <span style="background:#79B8FF;color:#000;padding:4px 8px;border-radius:4px;">Chi</span>
+    <span style="background:#0061A8;color:#fff;padding:4px 8px;border-radius:4px;">Go Modules</span>
+    <span style="background:#6D4C41;color:#fff;padding:4px 8px;border-radius:4px;">GORM</span>
+    <span style="background:#4CAF50;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+    <span style="background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>
+    <span style="background:#F7DF1E;color:#000;padding:4px 8px;border-radius:4px;">Redis</span>
+    <span style="background:#E34F26;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>
+  </td>
+</tr>
+</table>
+
+
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
 <table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
