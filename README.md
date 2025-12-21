@@ -91,7 +91,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 #### 💻 Skills:
 
-* Python (OOP, data structures), C++, C#
+* Python (OOP, data structures), C++, C#,  JS/TS, Go
 * Django
 * HTML/CSS, basic JS
 * Docker
