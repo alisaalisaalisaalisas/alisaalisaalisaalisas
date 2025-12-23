@@ -45,7 +45,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 **2023 — Present**
 
-#### 🔍 Key Responsibilities as QA:
+#### 🔍 Key things as QA:
 
 * Functional, regression, integration, and UI testing
 * Creating test documentation: checklists, test cases, bug reports
