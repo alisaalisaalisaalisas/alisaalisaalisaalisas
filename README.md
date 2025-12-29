@@ -196,44 +196,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
-<!-- ========== ⚙️ C# / .NET ========== -->
-<h2>⚙️ C# / .NET</h2>
-<table style="background:#f3e5f5;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Web / Backend</strong></td>
-  <td>
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework</span>,
-    <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL</span>,
-    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
-    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
-    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
-    <span style="background:#7F8CFF;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
-    <span style="background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>,
-    <span style="background:#4E5D94;color:#fff;padding:4px 8px;border-radius:4px;">Serilog</span>,
-    <span style="background:#7E57C2;color:#fff;padding:4px 8px;border-radius:4px;">xUnit</span>,
-    <span style="background:#CE93D8;color:#fff;padding:4px 8px;border-radius:4px;">NUnit</span>
-  </td>
-</tr>
-<tr>
-  <td><strong>Desktop</strong></td>
-  <td>
-    <span style="background:#6A1B9A;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>,
-    <span style="background:#3F51B5;color:#fff;padding:4px 8px;border-radius:4px;">WinUI3</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">MAUI</span>,
-    <span style="background:#4A148C;color:#fff;padding:4px 8px;border-radius:4px;">Avalonia</span>
-  </td>
-</tr>
-<tr>
-  <td><strong>GameDev</strong></td>
-  <td>
-    <span style="background:#222;color:#fff;padding:4px 8px;border-radius:4px;">Unity</span>
-  </td>
-</tr>
-</table>
-<br>
-
 <!-- ========== 💠 C++ ========== -->
 <h2>💠 C++</h2>
 <table style="background:#e3f2fd;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
@@ -310,76 +272,6 @@ My journey is all about continuous growth, problem-solving, and making products 
   </td>
 </tr>
 </table>
-
-<!-- ========== ☕ JAVA ========== -->
-<h2>☕ Java</h2>
-<table style="background:#e3f2fd;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-  <tr>
-    <td><strong>Web / Backend</strong></td>
-    <td>
-      <span style="background:#E76F00;color:#fff;padding:4px 8px;border-radius:4px;">Spring Boot</span>,
-      <span style="background:#E76F00;color:#fff;padding:4px 8px;border-radius:4px;">Spring MVC</span>,
-      <span style="background:#E76F00;color:#fff;padding:4px 8px;border-radius:4px;">Spring Security</span>,
-      <span style="background:#E76F00;color:#fff;padding:4px 8px;border-radius:4px;">Spring Data</span>,
-      <span style="background:#2E7D32;color:#fff;padding:4px 8px;border-radius:4px;">Jakarta EE</span>,
-      <span style="background:#4E5D94;color:#fff;padding:4px 8px;border-radius:4px;">Hibernate</span>,
-      <span style="background:#607D8B;color:#fff;padding:4px 8px;border-radius:4px;">JPA</span>,
-      <span style="background:#1976D2;color:#fff;padding:4px 8px;border-radius:4px;">REST API</span>,
-      <span style="background:#7B1FA2;color:#fff;padding:4px 8px;border-radius:4px;">GraphQL</span>,
-      <span style="background:#5D4037;color:#fff;padding:4px 8px;border-radius:4px;">Maven</span>,
-      <span style="background:#0F9D58;color:#fff;padding:4px 8px;border-radius:4px;">Gradle</span>,
-      <span style="background:#455A64;color:#fff;padding:4px 8px;border-radius:4px;">Tomcat</span>,
-      <span style="background:#263238;color:#fff;padding:4px 8px;border-radius:4px;">Jetty</span>,
-      <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
-      <span style="background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Data / Messaging</strong></td>
-    <td>
-      <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
-      <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
-      <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">Oracle DB</span>,
-      <span style="background:#4CAF50;color:#fff;padding:4px 8px;border-radius:4px;">MongoDB</span>,
-      <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
-      <span style="background:#000000;color:#fff;padding:4px 8px;border-radius:4px;">Kafka</span>,
-      <span style="background:#FF9800;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>,
-      <span style="background:#005571;color:#fff;padding:4px 8px;border-radius:4px;">Elasticsearch</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Testing</strong></td>
-    <td>
-      <span style="background:#6D4C41;color:#fff;padding:4px 8px;border-radius:4px;">JUnit</span>,
-      <span style="background:#8D6E63;color:#fff;padding:4px 8px;border-radius:4px;">TestNG</span>,
-      <span style="background:#2E7D32;color:#fff;padding:4px 8px;border-radius:4px;">Mockito</span>,
-      <span style="background:#455A64;color:#fff;padding:4px 8px;border-radius:4px;">AssertJ</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Desktop</strong></td>
-    <td>
-      <span style="background:#1565C0;color:#fff;padding:4px 8px;border-radius:4px;">JavaFX</span>,
-      <span style="background:#37474F;color:#fff;padding:4px 8px;border-radius:4px;">Swing</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <span style="background:#0D47A1;color:#fff;padding:4px 8px;border-radius:4px;">IntelliJ IDEA</span>,
-      <span style="background:#7CB342;color:#fff;padding:4px 8px;border-radius:4px;">Lombok</span>,
-      <span style="background:#00897B;color:#fff;padding:4px 8px;border-radius:4px;">MapStruct</span>,
-      <span style="background:#D84315;color:#fff;padding:4px 8px;border-radius:4px;">Flyway</span>,
-      <span style="background:#5E35B1;color:#fff;padding:4px 8px;border-radius:4px;">Liquibase</span>
-    </td>
-  </tr>
-</table>
-<br>
-
 
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
