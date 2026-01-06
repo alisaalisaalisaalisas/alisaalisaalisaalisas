@@ -91,7 +91,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 #### 💻 Skills:
 
-* Python (OOP, data structures), , C#,  JS/TS, Go
+* Python (OOP, data structures), JS/TS, Go
 * Django
 * HTML/CSS, basic JS
 * Docker
@@ -196,63 +196,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
-<h2>⚙️ C# / .NET</h2>
-<table style="background:#e3f2fd;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Web / Backend</strong></td>
-  <td>
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">MVC</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Minimal API</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Web API</span>,
-    <span style="background:#68217A;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework Core</span>,
-    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">SQL Server</span>,
-    <span style="background:#00758F;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
-    <span style="background:#003B57;color:#fff;padding:4px 8px;border-radius:4px;">SQLite</span>,
-    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
-    <span style="background:#FF9800;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
-    <span style="background:#1976D2;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>,
-    <span style="background:#4CAF50;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Data / Cloud</strong></td>
-  <td>
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">LINQ</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Dapper</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Hangfire</span>,
-    <span style="background:#2196F3;color:#fff;padding:4px 8px;border-radius:4px;">Azure</span>,
-    <span style="background:#FF9900;color:#fff;padding:4px 8px;border-radius:4px;">AWS</span>,
-    <span style="background:#34A853;color:#fff;padding:4px 8px;border-radius:4px;">Google Cloud</span>,
-    <span style="background:#6A1B9A;color:#fff;padding:4px 8px;border-radius:4px;">Serilog</span>,
-    <span style="background:#4E342E;color:#fff;padding:4px 8px;border-radius:4px;">NLog</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Desktop / UI</strong></td>
-  <td>
-    <span style="background:#0D47A1;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>,
-    <span style="background:#1976D2;color:#fff;padding:4px 8px;border-radius:4px;">WinForms</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">.NET MAUI</span>,
-    <span style="background:#673AB7;color:#fff;padding:4px 8px;border-radius:4px;">Xamarin</span>,
-    <span style="background:#009688;color:#fff;padding:4px 8px;border-radius:4px;">Avalonia UI</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Testing / Tools</strong></td>
-  <td>
-    <span style="background:#7B1FA2;color:#fff;padding:4px 8px;border-radius:4px;">xUnit</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">NUnit</span>,
-    <span style="background:#FF5722;color:#fff;padding:4px 8px;border-radius:4px;">Moq</span>,
-    <span style="background:#0097A7;color:#fff;padding:4px 8px;border-radius:4px;">Postman</span>,
-    <span style="background:#263238;color:#fff;padding:4px 8px;border-radius:4px;">Swagger</span>
-  </td>
-</tr>
-</table>
 
 
 <!-- ========== ⚡ JS/TS ========== -->
