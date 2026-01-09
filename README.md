@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, Go, c#,  JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -91,7 +91,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 #### 💻 Skills:
 
-* Python (OOP, data structures), JS/TS, Go, c#
+* Python (OOP, data structures), JS/TS
 * Django
 * HTML/CSS, basic JS
 * Docker
@@ -218,86 +218,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </tr>
 </table>
 <br>
-
-
-<!-- ========== 🐹 Go (Golang) ========== -->
-<h2>🐹 Go (Golang)</h2>
-<table style="background:#e7f7ff;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Backend / Systems</strong></td>
-  <td>
-    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>,
-    <span style="background:#333;color:#fff;padding:4px 8px;border-radius:4px;">Gin</span>,
-    <span style="background:#1F8ACB;color:#fff;padding:4px 8px;border-radius:4px;">Fiber</span>,
-    <span style="background:#79B8FF;color:#000;padding:4px 8px;border-radius:4px;">Chi</span>,
-    <span style="background:#0061A8;color:#fff;padding:4px 8px;border-radius:4px;">Go Modules</span>,
-    <span style="background:#6D4C41;color:#fff;padding:4px 8px;border-radius:4px;">GORM</span>,
-    <span style="background:#4CAF50;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
-    <span style="background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>,
-    <span style="background:#F7DF1E;color:#000;padding:4px 8px;border-radius:4px;">Redis</span>,
-    <span style="background:#E34F26;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>
-  </td>
-</tr>
-</table>
-<h2>⚙️ C# / .NET</h2>
-
-<table style="background:#e3f2fd;padding:14px;border-radius:12px;width:100%;font-family:sans-serif;border-collapse:separate;border-spacing:0 12px;">
-  <tr>
-    <td style="width:160px;vertical-align:top;font-weight:bold;">Web / Backend</td>
-    <td style="line-height:2;">
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">ASP.NET Core</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">MVC</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">Minimal API</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">Web API</span>
-      <span style="background:#68217A;color:#fff;padding:5px 10px;border-radius:6px;">Entity Framework Core</span>
-      <span style="background:#336791;color:#fff;padding:5px 10px;border-radius:6px;">SQL Server</span>
-      <span style="background:#00758F;color:#fff;padding:5px 10px;border-radius:6px;">MySQL</span>
-      <span style="background:#003B57;color:#fff;padding:5px 10px;border-radius:6px;">SQLite</span>
-      <span style="background:#D82C20;color:#fff;padding:5px 10px;border-radius:6px;">Redis</span>
-      <span style="background:#FF9800;color:#fff;padding:5px 10px;border-radius:6px;">SignalR</span>
-      <span style="background:#0db7ed;color:#fff;padding:5px 10px;border-radius:6px;">Docker</span>
-      <span style="background:#1976D2;color:#fff;padding:5px 10px;border-radius:6px;">gRPC</span>
-      <span style="background:#4CAF50;color:#fff;padding:5px 10px;border-radius:6px;">RabbitMQ</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="vertical-align:top;font-weight:bold;">Data / Cloud</td>
-    <td style="line-height:2;">
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">LINQ</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">Dapper</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">Hangfire</span>
-      <span style="background:#2196F3;color:#fff;padding:5px 10px;border-radius:6px;">Azure</span>
-      <span style="background:#FF9900;color:#fff;padding:5px 10px;border-radius:6px;">AWS</span>
-      <span style="background:#34A853;color:#fff;padding:5px 10px;border-radius:6px;">Google Cloud</span>
-      <span style="background:#6A1B9A;color:#fff;padding:5px 10px;border-radius:6px;">Serilog</span>
-      <span style="background:#4E342E;color:#fff;padding:5px 10px;border-radius:6px;">NLog</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="vertical-align:top;font-weight:bold;">Desktop / UI</td>
-    <td style="line-height:2;">
-      <span style="background:#0D47A1;color:#fff;padding:5px 10px;border-radius:6px;">WPF</span>
-      <span style="background:#1976D2;color:#fff;padding:5px 10px;border-radius:6px;">WinForms</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">.NET MAUI</span>
-      <span style="background:#673AB7;color:#fff;padding:5px 10px;border-radius:6px;">Xamarin</span>
-      <span style="background:#009688;color:#fff;padding:5px 10px;border-radius:6px;">Avalonia UI</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="vertical-align:top;font-weight:bold;">Testing / Tools</td>
-    <td style="line-height:2;">
-      <span style="background:#7B1FA2;color:#fff;padding:5px 10px;border-radius:6px;">xUnit</span>
-      <span style="background:#512BD4;color:#fff;padding:5px 10px;border-radius:6px;">NUnit</span>
-      <span style="background:#FF5722;color:#fff;padding:5px 10px;border-radius:6px;">Moq</span>
-      <span style="background:#0097A7;color:#fff;padding:5px 10px;border-radius:6px;">Postman</span>
-      <span style="background:#263238;color:#fff;padding:5px 10px;border-radius:6px;">Swagger</span>
-    </td>
-  </tr>
-</table>
-
 
 
 
