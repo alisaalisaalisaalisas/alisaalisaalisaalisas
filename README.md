@@ -240,6 +240,51 @@ My journey is all about continuous growth, problem-solving, and making products 
   </tr>
 </table>
 
+<!-- ========== 🔷 C# / .NET ========== -->
+<h2>🔷 C# / .NET</h2>
+<table style="background:#e8f5e9;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Web / Backend</strong></td>
+  <td>
+    <span style="background:#239120;color:#fff;padding:4px 8px;border-radius:4px;">C#</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">.NET</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Web API</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">MVC</span>,
+    <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Minimal APIs</span>,
+    <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>,
+    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Kestrel</span>,
+    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Data / Integrations</strong></td>
+  <td>
+    <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework Core</span>,
+    <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">Dapper</span>,
+    <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">LINQ</span>,
+    <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL Server</span>,
+    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
+    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
+    <span style="background:#003B57;color:#fff;padding:4px 8px;border-radius:4px;">SQLite</span>,
+    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
+    <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>,
+    <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Hangfire</span>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Desktop</strong></td>
+  <td>
+    <span style="background:#2D7D9A;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>,
+    <span style="background:#2D7D9A;color:#fff;padding:4px 8px;border-radius:4px;">WinForms</span>,
+    <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">MAUI</span>,
+    <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Avalonia</span>
+  </td>
+</tr>
+</table>
+<br>
 
 
 
