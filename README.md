@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, Go, C#, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, Go, C++ , JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -91,7 +91,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 
 #### 💻 Skills:
 
-* Python (OOP, data structures), JS/TS, Go, C#
 * Django
 * HTML/CSS, basic JS
 * Docker
@@ -240,51 +239,81 @@ My journey is all about continuous growth, problem-solving, and making products 
   </tr>
 </table>
 
-<!-- ========== 🔷 C# / .NET ========== -->
-<h2>🔷 C# / .NET</h2>
+<!-- ========== 🔷 C++ ========== -->
+<h2>🔷 C++</h2>
 <table style="background:#e8f5e9;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Web / Backend</strong></td>
-  <td>
-    <span style="background:#239120;color:#fff;padding:4px 8px;border-radius:4px;">C#</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">.NET</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Web API</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">MVC</span>,
-    <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Minimal APIs</span>,
-    <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>,
-    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Kestrel</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
-  </td>
-</tr>
+  <tr>
+    <td><strong>Core / Language</strong></td>
+    <td>
+      <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">C++</span>,
+      <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">C++11/14/17/20</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">STL</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">RAII</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Smart Pointers</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Templates</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Move Semantics</span>
+    </td>
+  </tr>
 
-<tr>
-  <td><strong>Data / Integrations</strong></td>
-  <td>
-    <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework Core</span>,
-    <span style="background:#858585;color:#fff;padding:4px 8px;border-radius:4px;">Dapper</span>,
-    <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">LINQ</span>,
-    <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL Server</span>,
-    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
-    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
-    <span style="background:#003B57;color:#fff;padding:4px 8px;border-radius:4px;">SQLite</span>,
-    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
-    <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>,
-    <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Hangfire</span>
-  </td>
-</tr>
+  <tr>
+    <td><strong>Build / Tooling</strong></td>
+    <td>
+      <span style="background:#4E4E4E;color:#fff;padding:4px 8px;border-radius:4px;">CMake</span>,
+      <span style="background:#4E4E4E;color:#fff;padding:4px 8px;border-radius:4px;">Make</span>,
+      <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">MSVC</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">GCC</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Clang</span>,
+      <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>,
+      <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">GDB/LLDB</span>
+    </td>
+  </tr>
 
-<tr>
-  <td><strong>Desktop</strong></td>
-  <td>
-    <span style="background:#2D7D9A;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>,
-    <span style="background:#2D7D9A;color:#fff;padding:4px 8px;border-radius:4px;">WinForms</span>,
-    <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">MAUI</span>,
-    <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Avalonia</span>
-  </td>
-</tr>
+  <tr>
+    <td><strong>Performance / Concurrency</strong></td>
+    <td>
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Multithreading</span>,
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">std::thread</span>,
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">mutex/atomic</span>,
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Async/Futures</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Profiling</span>,
+      <span style="background:#2F2F2F;color:#fff;padding:4px 8px;border-radius:4px;">Memory Optimization</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Data / Networking</strong></td>
+    <td>
+      <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
+      <span style="background:#CC2927;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL Server</span>,
+      <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
+      <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
+      <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>,
+      <span style="background:#0B74DE;color:#fff;padding:4px 8px;border-radius:4px;">Boost.Asio</span>,
+      <span style="background:#0B74DE;color:#fff;padding:4px 8px;border-radius:4px;">TCP/UDP</span>,
+      <span style="background:#0B74DE;color:#fff;padding:4px 8px;border-radius:4px;">HTTP/REST</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>GUI / Cross-platform</strong></td>
+    <td>
+      <span style="background:#41CD52;color:#fff;padding:4px 8px;border-radius:4px;">Qt</span>,
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">wxWidgets</span>,
+      <span style="background:#6A5ACD;color:#fff;padding:4px 8px;border-radius:4px;">Dear ImGui</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Testing / Quality</strong></td>
+    <td>
+      <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">GoogleTest</span>,
+      <span style="background:#E67E22;color:#fff;padding:4px 8px;border-radius:4px;">Catch2</span>,
+      <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Static Analysis</span>,
+      <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">clang-tidy</span>,
+      <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Sanitizers</span>
+    </td>
+  </tr>
 </table>
-<br>
 
 
 
