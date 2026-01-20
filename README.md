@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, Go, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -217,28 +217,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </tr>
 </table>
 <br>
-<h2>🐹 Go (Golang)</h2>
-
-<table style="background:#e7f7ff;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-  <tr>
-    <td style="vertical-align:top;width:180px;">
-      <strong>Backend / Systems</strong>
-    </td>
-    <td style="vertical-align:top;">
-      <span style="display:inline-block;background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Go</span>
-      <span style="display:inline-block;background:#333;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Gin</span>
-      <span style="display:inline-block;background:#1F8ACB;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Fiber</span>
-      <span style="display:inline-block;background:#79B8FF;color:#000;padding:4px 8px;border-radius:4px;margin:3px;">Chi</span>
-      <span style="display:inline-block;background:#0061A8;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Go Modules</span>
-      <span style="display:inline-block;background:#6D4C41;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">GORM</span>
-      <span style="display:inline-block;background:#4CAF50;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Docker</span>
-      <span style="display:inline-block;background:#326CE5;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">Kubernetes</span>
-      <span style="display:inline-block;background:#F7DF1E;color:#000;padding:4px 8px;border-radius:4px;margin:3px;">Redis</span>
-      <span style="display:inline-block;background:#E34F26;color:#fff;padding:4px 8px;border-radius:4px;margin:3px;">PostgreSQL</span>
-    </td>
-  </tr>
-</table>
-
 
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
