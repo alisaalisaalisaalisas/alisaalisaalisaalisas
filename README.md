@@ -195,8 +195,8 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
-<h2>Go </h2>
-
+<h2> 🚀 Go </h2>
+<span style="background:#e34c26;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>
 
 <!-- ========== ⚡ JS/TS ========== -->
 <h2>⚡ JavaScript / TypeScript</h2>
