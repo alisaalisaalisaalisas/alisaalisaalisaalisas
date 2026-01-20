@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, Go, C#, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, Go, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -238,67 +238,6 @@ My journey is all about continuous growth, problem-solving, and making products 
     </td>
   </tr>
 </table>
-<h2>🟣 C#</h2>
-<table style="background:#ede7f6;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
-<tr>
-  <td><strong>Web / Backend</strong></td>
-  <td>
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
-    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">Web API</span>,
-    <span style="background:#6A1B9A;color:#fff;padding:4px 8px;border-radius:4px;">MVC</span>,
-    <span style="background:#5C2D91;color:#fff;padding:4px 8px;border-radius:4px;">Blazor</span>,
-    <span style="background:#37474F;color:#fff;padding:4px 8px;border-radius:4px;">SignalR</span>,
-    <span style="background:#0B5FFF;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework Core</span>,
-    <span style="background:#1565C0;color:#fff;padding:4px 8px;border-radius:4px;">Dapper</span>,
-    <span style="background:#B71C1C;color:#fff;padding:4px 8px;border-radius:4px;">MS SQL Server</span>,
-    <span style="background:#336791;color:#fff;padding:4px 8px;border-radius:4px;">PostgreSQL</span>,
-    <span style="background:#00618A;color:#fff;padding:4px 8px;border-radius:4px;">MySQL</span>,
-    <span style="background:#D82C20;color:#fff;padding:4px 8px;border-radius:4px;">Redis</span>,
-    <span style="background:#FF6F00;color:#fff;padding:4px 8px;border-radius:4px;">RabbitMQ</span>,
-    <span style="background:#444;color:#fff;padding:4px 8px;border-radius:4px;">Hangfire</span>,
-    <span style="background:#0db7ed;color:#fff;padding:4px 8px;border-radius:4px;">Docker</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Desktop</strong></td>
-  <td>
-    <span style="background:#1976D2;color:#fff;padding:4px 8px;border-radius:4px;">WPF</span>,
-    <span style="background:#0D47A1;color:#fff;padding:4px 8px;border-radius:4px;">WinForms</span>,
-    <span style="background:#5C2D91;color:#fff;padding:4px 8px;border-radius:4px;">MAUI</span>,
-    <span style="background:#2E7D32;color:#fff;padding:4px 8px;border-radius:4px;">Xamarin</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Data / Cloud / DevOps</strong></td>
-  <td>
-    <span style="background:#0078D4;color:#fff;padding:4px 8px;border-radius:4px;">Azure</span>,
-    <span style="background:#0F9D58;color:#fff;padding:4px 8px;border-radius:4px;">AWS</span>,
-    <span style="background:#1E88E5;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>,
-    <span style="background:#263238;color:#fff;padding:4px 8px;border-radius:4px;">REST</span>,
-    <span style="background:#455A64;color:#fff;padding:4px 8px;border-radius:4px;">Microservices</span>,
-    <span style="background:#24292e;color:#fff;padding:4px 8px;border-radius:4px;">Git</span>,
-    <span style="background:#2E7D32;color:#fff;padding:4px 8px;border-radius:4px;">CI/CD</span>,
-    <span style="background:#0288D1;color:#fff;padding:4px 8px;border-radius:4px;">Kubernetes</span>,
-    <span style="background:#F57C00;color:#fff;padding:4px 8px;border-radius:4px;">Serilog</span>,
-    <span style="background:#616161;color:#fff;padding:4px 8px;border-radius:4px;">NLog</span>
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Testing</strong></td>
-  <td>
-    <span style="background:#1B5E20;color:#fff;padding:4px 8px;border-radius:4px;">xUnit</span>,
-    <span style="background:#2E7D32;color:#fff;padding:4px 8px;border-radius:4px;">NUnit</span>,
-    <span style="background:#33691E;color:#fff;padding:4px 8px;border-radius:4px;">MSTest</span>,
-    <span style="background:#546E7A;color:#fff;padding:4px 8px;border-radius:4px;">Moq</span>
-  </td>
-</tr>
-</table>
-
-
-
 
 
 <!-- ========== 🛠️ DEVOPS ========== -->
