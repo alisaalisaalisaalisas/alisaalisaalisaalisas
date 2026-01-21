@@ -25,7 +25,7 @@ My journey is all about continuous growth, problem-solving, and making products 
 * 🔭 **Mission**: Strive for professional excellence and high product quality
 * 🌱 **Currently learning**: Test automation, CI/CD, backend development
 * 🎯 **Goal**: Grow into a Middle QA/QA Automation Engineer or move toward development
-* 💬 **Skills**: Python, Go, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
+* 💬 **Skills**: Python, JS/TS, HTML/CSS, SQL, API testing, UI/UX testing, Git, Docker, Ubuntu bash
 * 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
 
 </td>
@@ -195,8 +195,6 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
-<h2> 🚀 Go </h2>
-<span style="background:#e34c26;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>
 
 <!-- ========== ⚡ JS/TS ========== -->
 <h2>⚡ JavaScript / TypeScript</h2>
