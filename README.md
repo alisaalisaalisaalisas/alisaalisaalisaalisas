@@ -194,6 +194,39 @@ My journey is all about continuous growth, problem-solving, and making products 
 </tr>
 </table>
 <br>
+<!-- ========== ⚙️ C# ========== -->
+<h2>⚙️ C#</h2>
+<table style="background:#f3e5f5;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Backend / Enterprise</strong></td>
+  <td>
+    <span style="background:#68217A;color:#fff;padding:4px 8px;border-radius:4px;">C#</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">.NET</span>,
+    <span style="background:#512BD4;color:#fff;padding:4px 8px;border-radius:4px;">ASP.NET Core</span>,
+    <span style="background:#0078D7;color:#fff;padding:4px 8px;border-radius:4px;">Entity Framework</span>,
+    <span style="background:#0078D7;color:#fff;padding:4px 8px;border-radius:4px;">LINQ</span>,
+    <span style="background:#0078D7;color:#fff;padding:4px 8px;border-radius:4px;">Web API</span>
+  </td>
+</tr>
+</table>
+
+<br>
+
+<!-- ========== 🚀 Go ========== -->
+<h2>🚀 Go</h2>
+<table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Backend / High Performance</strong></td>
+  <td>
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Go</span>,
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Gin</span>,
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Fiber</span>,
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">Echo</span>,
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>,
+    <span style="background:#00ADD8;color:#fff;padding:4px 8px;border-radius:4px;">REST API</span>
+  </td>
+</tr>
+</table>
 
 
 <!-- ========== ⚡ JS/TS ========== -->
