@@ -250,6 +250,21 @@ My journey is all about continuous growth, problem-solving, and making products 
 </table>
 <br>
 
+<h2>⚡ C++</h2>
+<table style="background:#f3e5f5;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
+<tr>
+  <td><strong>Systems / High Performance</strong></td>
+  <td>
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">C++</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">STL</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">Boost</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">Qt</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">CMake</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">gRPC</span>,
+    <span style="background:#00599C;color:#fff;padding:4px 8px;border-radius:4px;">Multithreading</span>
+  </td>
+</tr>
+</table>
 <!-- ========== 🛠️ DEVOPS ========== -->
 <h2>🛠️ DevOps / CI/CD / Infrastructure</h2>
 <table style="background:#e1f5fe;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
