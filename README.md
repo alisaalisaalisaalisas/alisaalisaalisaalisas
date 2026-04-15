@@ -20,7 +20,7 @@ I specialize in transforming manual testing processes into automated pipelines, 
 * 🌱 **Learning**: Advanced test architecture, microservices testing, performance testing
 * 🎯 **Goal**: Grow into Middle/Senior AQA Engineer
 * 💬 **Core Stack**: Python, Pytest, API/UI testing, CI/CD, Docker
-* 📫 **Contact**: [neveruslovu@mail.com](mailto:neveruslovu@mail.com)
+* 📫 **Contact**: [neveruslovu@mail.com](mailto:feerioshopa@gmail.com)
 
 ---
 
