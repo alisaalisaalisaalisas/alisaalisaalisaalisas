@@ -179,6 +179,13 @@ I specialize in transforming manual testing processes into automated pipelines, 
   </td>
 </tr>
 
+<tr>
+  <td><strong>Reporting\Test Management</strong></td>
+  <td>
+    <span style="background:#1F618D;color:#fff;padding:4px 8px;border-radius:4px;">Allure</span>,
+    <span style="background:#1F618D;color:#fff;padding:4px 8px;border-radius:4px;">TestRail</span>
+  </td>
+</tr>
 </table>
 ## 🚀 Key Achievements
 
