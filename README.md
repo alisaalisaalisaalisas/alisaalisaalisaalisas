@@ -98,6 +98,10 @@ I specialize in transforming manual testing processes into automated pipelines, 
 
 ---
 ---
+## 🧩 Additional Development Skills
+
+* **C#** — game development (Unity basics, gameplay logic)
+* **TypeScript** — React / Vue basics, UI behavior understanding
 
 ## 📦 Python Tech Stack
 
