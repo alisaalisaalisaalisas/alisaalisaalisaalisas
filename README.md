@@ -97,7 +97,6 @@ I specialize in transforming manual testing processes into automated pipelines, 
   * black
 
 ---
----
 ## 🧩 Additional Development Skills
 
 * **C#** — game development (Unity basics, gameplay logic)
