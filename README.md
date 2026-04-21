@@ -97,10 +97,6 @@ I specialize in transforming manual testing processes into automated pipelines, 
   * black
 
 ---
-## 🧩 Additional Development Skills
-
-* **C++** — game development (basics, gameplay logic)
-
 ## 📦 Python Tech Stack
 
 <h2>🐍 Python (Automation QA Focus)</h2>
