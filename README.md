@@ -107,7 +107,7 @@ Specialized in operation of high-load systems, monitoring, incident analysis and
 
 ## 📦 Tech Stack
 
-<h2>🛠️ DevOps (Ops → DevOps)</h2>
+<h2>🛠️ DevOps </h2>
 
 <table style="background:#e8f5e9;padding:12px;border-radius:8px;width:100%;font-family:sans-serif;">
 <tr>
