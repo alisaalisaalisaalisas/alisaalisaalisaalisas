@@ -25,7 +25,7 @@ Specialized in operation of high-load systems, monitoring, incident analysis and
 
 ## 💼 Experience
 
-### **L2 Technical Support Engineer — Production Operations**
+### **L2 Technical Support Engineer — Production Operations — OOO "ИННОСЕТИ"**
 **Feb 2026 — Present**
 
 #### 🔧 Core Responsibilities:
